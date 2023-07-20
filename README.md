@@ -108,7 +108,7 @@ This GUI is run using a vector shapefile and the matching mosaic (in either WMS/
     
 ## Running the app
 
-Start by installing the required package, then run the mosaic-viewer-app.R file. Upon launching the app, you will be prompted to select the shapefile you want to load in the local file directory. After selecting a file, wait for the message <span style = "color:red">"Click the Submit button to proceed."</span> to render before proceeding.
+Start by installing the required packages in RStudio, then open and run the mosaic-viewer-app.R file. Upon launching the app, you will be prompted to select the shapefile you want to load in the local file directory. After selecting a file, wait for the message <span style = "color:red">"Click the Submit button to proceed."</span> to render before proceeding.
 
 You should then be prompted to choose the type of mosaic file you would like to display (WMS/WMTS server or Geotiff), the number of maps you would like to display, then enter the relevant information required to plot the mosaic. Once that's completed, the app should be ready to use. Full screen the interface to view the full data table.
 
