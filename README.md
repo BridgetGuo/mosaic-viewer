@@ -149,4 +149,4 @@ Find the file directory of where the example_data folder was downloaded to, then
 
 The resulting interface should look similar to the screenshot shown below.
 
-![A screenshot of the user interface.](GUI_image_edit_2.png)
+![A screenshot of the user interface.](GUI_image_edit_2.PNG)
