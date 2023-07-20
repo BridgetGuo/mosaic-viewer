@@ -1,0 +1,11 @@
+WMS link:
+https://geoserveis.icgc.cat/servei/catalunya/orto-territorial/wms
+
+High quality orthophotos of Catalonia over a time series, courtesy of the 
+Institut Cartogràfic i Geològic de Catalunya.
+
+layer names:
+ortofoto_color_2010
+ortofoto_color_2013
+ortofoto_color_2016
+ortofoto_color_2022
