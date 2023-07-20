@@ -70,7 +70,7 @@ This panel is where the harvest block polygons will be displayed on top of each 
 
 * **Viewing the Mosaic - Geotiff**
   + When visualizing the Geotiff mosaic, the plotted map is set up with dynamic zoom in proportion to the Geotiff file and to the area of each shapefile in hectares (area_ha).
-  + The border is set using an equation where the width of the Geotiff is divided by the width/length of the shapefile (whichever is larger), then divided by a number set according to area_ha.
+  + The border is set using an equation where the width of the Geotiff is divided by the width/length of the shapefile (whichever is larger), then divided by a number set according to area_ha. This equation is tailored to work with GeoTIFFs roughly 1,000,000 m in width.
     - area_ha > 40 : divide by 2
     - 40 > area_ha > 17: divide by 5
     - 17 > area_ha > 10: divide by 7
